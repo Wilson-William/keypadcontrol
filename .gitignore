@@ -1,0 +1,15 @@
+# Build output folders
+/Debug/
+/Release/
+
+#IDE settings
+/.settings/
+/.metadata/
+/.ipc
+
+#OS junk
+*.swp
+*.bak
+*.tmp
+.DS-Store
+Thumbs.db
