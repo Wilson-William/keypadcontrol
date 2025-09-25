@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build output folders
 /Debug/
 /Release/
@@ -12,4 +13,20 @@
 *.bak
 *.tmp
 .DS-Store
+=======
+# Build output folders
+/Debug/
+/Release/
+
+#IDE settings
+/.settings/
+/.metadata/
+/.ipc
+
+#OS junk
+*.swp
+*.bak
+*.tmp
+.DS-Store
+>>>>>>> 2a28278571905bef7af05570976a38f213e937b8
 Thumbs.db
